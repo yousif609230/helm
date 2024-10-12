@@ -1,0 +1,6 @@
+{
+    "yaml.schemas": {
+        "Kubernetes": "*.yaml",
+        "https://json.schemastore.org/chart.json": "file:///e%3A/terraform/.terraform/helm/create_charts/my-chart/values.yaml"
+    }
+}

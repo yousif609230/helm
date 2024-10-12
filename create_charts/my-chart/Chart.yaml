@@ -1,6 +1,13 @@
 apiVersion: v2
 name: my-chart
 description: A Helm chart for Kubernetes
+keywords:
+  - "custom-chart"
+  - "webapp"
+
+maintainers:
+  - name: "yousif ahmed"
+    email: "yousif.91.ahmed"
 
 # A chart can be either an 'application' or a 'library' chart.
 #
